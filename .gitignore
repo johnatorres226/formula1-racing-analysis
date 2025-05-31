@@ -75,7 +75,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # IPython
 profile_default/
@@ -108,11 +107,6 @@ dmypy.json
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-# Data folders
-data/processed/
-data/interim/
-data/external/
 
 # Remove raw data ignore (do not ignore data/raw)
 data/raw/
