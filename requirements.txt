@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+requests
+beautifulsoup4
+plotly
+statsmodels
+shiny
+shinywidgets
+tqdm
+tabulate
+shinywidgets
+dash
+jupyter-dash

@@ -108,5 +108,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# Virtual environment
+.venv/
+
 # Remove raw data ignore (do not ignore data/raw)
-data/raw/
+#data/raw/
